@@ -260,7 +260,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/krushna-ghuge)
+Your Name - [Krushna Ghuge](https://github.com/ghugekrushna21)
 
 ---
 
